@@ -1,0 +1,21 @@
+id,first_name,last_name,email,age,department,role,country,salary,hire_date
+1,John,Doe,john.doe@example.com,29,Engineering,Backend Developer,USA,85000,2021-03-15
+2,Aisha,Bello,aisha.bello@example.com,34,Data,Data Analyst,Nigeria,72000,2020-07-01
+3,Michael,Smith,michael.smith@example.com,41,Management,Project Manager,UK,95000,2019-01-20
+4,Chen,Li,chen.li@example.com,26,Engineering,Frontend Developer,China,68000,2022-06-10
+5,Amaka,Okoye,amaka.okoye@example.com,31,HR,HR Specialist,Nigeria,60000,2021-09-05
+6,Carlos,Ramirez,carlos.ramirez@example.com,38,Engineering,DevOps Engineer,Mexico,88000,2018-11-12
+7,Fatima,Al-Sayed,fatima.sayed@example.com,27,Design,UI Designer,UAE,65000,2022-02-18
+8,Lukas,Muller,lukas.muller@example.com,45,Finance,Financial Analyst,Germany,90000,2017-05-30
+9,Sarah,Johnson,sarah.johnson@example.com,33,Marketing,SEO Specialist,USA,70000,2020-10-22
+10,David,Brown,david.brown@example.com,50,Management,CTO,USA,150000,2015-08-01
+11,Ravi,Patel,ravi.patel@example.com,28,Data,Data Engineer,India,78000,2021-04-14
+12,Emily,Clark,emily.clark@example.com,36,Product,Product Manager,Canada,92000,2019-12-09
+13,Youssef,Hassan,youssef.hassan@example.com,40,Security,Security Analyst,Egypt,87000,2018-06-25
+14,Grace,Kim,grace.kim@example.com,24,Engineering,QA Engineer,South Korea,62000,2023-01-11
+15,Pedro,Santos,pedro.santos@example.com,35,Sales,Account Executive,Brazil,75000,2020-03-19
+16,Zainab,Abdul,zainab.abdul@example.com,30,Support,Customer Support,Nigeria,55000,2021-07-27
+17,Alexei,Ivanov,alexei.ivanov@example.com,42,Engineering,Systems Architect,Russia,98000,2016-09-14
+18,Hannah,Williams,hannah.williams@example.com,27,Marketing,Content Writer,Australia,64000,2022-05-03
+19,Samuel,Osei,samuel.osei@example.com,39,Operations,Operations Manager,Ghana,83000,2018-02-08
+20,Isabella,Rossi,isabella.rossi@example.com,32,Design,UX Researcher,Italy,71000,2020-11-16
