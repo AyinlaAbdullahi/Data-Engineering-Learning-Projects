@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+*.log
+
+# CSV files
+*.csv
+
+# macOS
+.DS_Store
